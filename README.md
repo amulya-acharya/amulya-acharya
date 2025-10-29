@@ -8,7 +8,7 @@ I am currently working as a *Frontend Module Lead* at *Mphasis Corporation* havi
 
 As a Frontend Module Lead with over 7 years of experience in the Angular Web Framework, I am skilled at bridging technical excellence with strategic leadership to deliver high-impact applications.
 
-I oversee the development of a trading platform used by over 80 million users per month for a leading client in the finance sector.
+I oversee the development of a trading platform used by over 38 million users per month for a leading client in the finance sector.
 
 I specialize in people management, client-focused delivery, and developing scalable, high-performance web applications using enterprise-grade tools like NgRx for state management and Mabl for end-to-end testing.
 
