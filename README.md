@@ -14,11 +14,13 @@ I specialize in people management, client-focused delivery, and developing scala
 
 ## Achievements 🥇
 
-- 🏆 Laurel Award at Mphasis (2025)
-- 🏆 Laurel Award at Mphasis (2024)
-- 🎖️ Customer Feedback award at Mphasis (2023)
-- 🎖️ Persona Award at Mphasis (2022)
-- 🏅 Quarterly APEX Award at Mphasis (2020)
+- 🏆 Laurel Award, Mphasis (March 2025)
+- 🏆 Laurel Award, Mphasis (June 2025)
+- 🏆 Kudos Award, Mphasis (March 2024)
+- 🏆 Kudos Award, Mphasis (September 2024)
+- 🎖️ Customer Feedback award, Mphasis (May 2023)
+- 🎖️ Persona Award, Mphasis (2022)
+- 🏅 Quarterly APEX Award, Mphasis (2020)
 
 ## Current Focus & Interests 🚀
 
@@ -34,7 +36,7 @@ I specialize in people management, client-focused delivery, and developing scala
 ![Angular](https://img.icons8.com/?size=48&id=l9a5tcSnBwcf&format=png&color=000000) ![Selenium](https://img.icons8.com/?size=48&id=ZIQW0IkyKdZV&format=png&color=000000) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
 
 ## Tools 🧰
-![Postman](https://img.icons8.com/?size=48&id=IoYmHUxgvrFB&format=png&color=000000) ![Swagger](https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png&color=000000) ![Mabl]()
+![Postman](https://img.icons8.com/?size=48&id=IoYmHUxgvrFB&format=png&color=000000) ![Swagger](https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png&color=000000) <img src="https://marketplace.atlassian.com/product-listing/files/5096f223-feaa-4657-b719-faa187aa726d?fileType=image&mode=full-fit" width="48" alt="Mabl icon">
 
 ## DevOps & Version Control 🗒️
 ![Github](https://img.icons8.com/?size=48&id=bVGqATNwfhYq&format=png&color=000000)  ![Bitbucket](https://img.icons8.com/?size=40&id=iZTo5EQZtLKm&format=png&color=000000)  ![Git](https://img.icons8.com/color/48/000000/git.png) 
