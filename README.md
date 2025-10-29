@@ -33,7 +33,7 @@ I specialize in people management, client-focused delivery, and developing scala
 ![Typescript](https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=48&id=20909&format=png&color=000000) ![Javascript](https://img.icons8.com/?size=48&id=108784&format=png&color=000000) 
 
 ## Frameworks 🛠
-![Angular](https://img.icons8.com/?size=48&id=l9a5tcSnBwcf&format=png&color=000000) ![Selenium](https://img.icons8.com/?size=48&id=ZIQW0IkyKdZV&format=png&color=000000) ![Spring](https://user-images.githubusercontent.com/15179100/226479786-63499866-b853-478c-91a6-a020dc5d0ede.png) 
+![Angular](https://img.icons8.com/?size=48&id=l9a5tcSnBwcf&format=png&color=000000) ![Selenium](https://img.icons8.com/?size=48&id=ZIQW0IkyKdZV&format=png&color=000000)
 
 ## Tools 🧰
 ![Postman](https://img.icons8.com/?size=48&id=IoYmHUxgvrFB&format=png&color=000000) ![Swagger](https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png&color=000000) <img src="https://marketplace.atlassian.com/product-listing/files/5096f223-feaa-4657-b719-faa187aa726d?fileType=image&mode=full-fit" width="48" alt="Mabl icon">
